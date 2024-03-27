@@ -10,7 +10,4 @@
 • <b>Version</b> : Python 3.11<br>
 • <b>IDE</b> : Visual Studio Code
 
-<h2>🎞 프로젝트 내용</h2>
 
-
-https://velog.io/@gmlstjq123/Readme.md-%ED%8C%8C%EC%9D%BC-%EC%9E%91%EC%84%B1%EB%B2%95
